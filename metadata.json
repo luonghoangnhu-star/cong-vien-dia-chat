@@ -1,0 +1,6 @@
+{
+  "name": "Công viên địa chất toàn cầu UNESCO Lạng Sơn",
+  "description": "Cổng thông tin tương tác khám phá Công viên địa chất toàn cầu UNESCO Lạng Sơn: Dòng chảy sự sống nơi miền đất thiêng, 4 tuyến hành trình di sản, 38 điểm đến và các giá trị địa chất, cổ sinh, sinh thái, văn hóa độc bản theo langsongeopark.com.vn.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
